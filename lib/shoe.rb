@@ -12,7 +12,7 @@ class Shoe
    puts "Your shoe is as good as new!"
  end
   
-   
+ shoe.condition = "new"  
 
 # it 'makes the shoe\'s condition new' do
 #       shoe.condition = "old"
